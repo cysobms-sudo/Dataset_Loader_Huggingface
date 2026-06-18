@@ -1,0 +1,65 @@
+# ====== پوشه‌های ساخته شده توسط PyInstaller ======
+dist/
+build/
+*.spec
+
+# ====== فایل‌های موقت پایتون ======
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ====== محیط‌های مجازی ======
+venv/
+env/
+.venv
+ENV/
+env.bak/
+venv.bak/
+
+# ====== فایل‌های سیستم ======
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# ====== فایل‌های IDE ======
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ====== فایل‌های موقت ======
+*.tmp
+*.temp
+*.bak
+*.old
+
+# ====== فایل‌های شخصی ======
+*.ico
+*.bmp
+*.png
+*.jpg
+*.jpeg
+
+# ====== فایل‌های داده ======
+*.csv
+*.xlsx
+*.xls
+*.json
+*.db
+*.sqlite
+
+# ====== فایل‌های فشرده ======
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# ====== فایل‌های مخصوص ویندوز ======
+*.lnk
+*.exe
+*.msi
+*.dll
